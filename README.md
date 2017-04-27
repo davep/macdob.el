@@ -1,4 +1,4 @@
-# maddob.el
+# macdob.el
 
 ## Commentary:
 
